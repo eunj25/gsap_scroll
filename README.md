@@ -1,4 +1,4 @@
-1. GSAP 패럴랙스 이펙트 : 기본 애니메이션
+1. GSAP 패럴랙스 이펙트 : 기본 애니메이션 https://eunj25.github.io/gsap_scroll/gsap01.html
 2. GSAP 패럴랙스 이펙트 : Pin 애니메이션
 3. GSAP 패럴랙스 이펙트 : Pin 배경 고정하기
 4. GSAP 패럴랙스 이펙트 : 이질감 효과
